@@ -1,4 +1,5 @@
 Web Portfolio menggunakan html dan css, dengan Scroll Reveal js dan animasi typed js.
+Preview here! https://pacetech90.github.io/portfolio-responsive-animasi/
 
 tampilan Home
 ![Screenshot 2024-01-30 003100](https://github.com/pacetech90/portfolio-responsive-animasi-typed/assets/55420029/51701584-2a0e-4c4e-b25b-180be5fd4fd6)
